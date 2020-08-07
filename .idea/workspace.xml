@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53ca3ada-b77a-4c92-b161-05c0b562e7f3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/juben/game.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18330">
+              <caret line="1232" column="68" selection-start-line="1232" selection-start-column="51" selection-end-line="1232" selection-end-column="68" />
+              <folding>
+                <element signature="e#0#120#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/juben/src/faceModel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/juben/src/actionModel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="666">
+              <caret line="80" selection-start-line="80" selection-end-line="80" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/juben/demoTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2715">
+              <caret line="181" selection-start-line="181" selection-end-line="181" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/juben/src/sms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>self.nameDict[</find>
+      <find>扇子</find>
+      <find>nameMap</find>
+      <find>vote</find>
+      <find>do</find>
+      <find>pyaudio</find>
+      <find>play</find>
+      <find>playVoice</find>
+      <find>maxMessage1</find>
+      <find>findName</find>
+      <find>getCurrentStage</find>
+      <find>currentStage</find>
+      <find>getLeftMessage</find>
+      <find>messageLeft</find>
+      <find>messageLeft1</find>
+      <find>memoryPerson2</find>
+      <find>noPreMessage</find>
+      <find>firstSearch</find>
+      <find>showPublicMessage</find>
+      <find>第2阶段</find>
+      <find>xm</find>
+      <find>specialEventforLM</find>
+      <find>进入第2阶段</find>
+      <find>initUI</find>
+      <find>意《易镜玄要》</find>
+      <find>is_special</find>
+      <find>doSearch</find>
+      <find>specialEventforanswer3</find>
+      <find>findNum2</find>
+      <find>review</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>firstSearch</replace>
+      <replace>memoryPerson</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/juben/NotImportant/zhengze.py" />
+        <option value="$PROJECT_DIR$/juben/src/demoTest.py" />
+        <option value="$PROJECT_DIR$/juben/resources/Action/own/1" />
+        <option value="$PROJECT_DIR$/juben/resources/Action/own/4" />
+        <option value="$PROJECT_DIR$/juben/resources/Action/own/7" />
+        <option value="$PROJECT_DIR$/juben/resources/Action/own/我" />
+        <option value="$PROJECT_DIR$/juben/resources/Action/own/19" />
+        <option value="$PROJECT_DIR$/juben/resources/Action/own/20" />
+        <option value="$PROJECT_DIR$/juben/NotImportant/ngram理解" />
+        <option value="$PROJECT_DIR$/juben/NotImportant/ngram" />
+        <option value="$PROJECT_DIR$/juben/NotImportant/audioInput.py" />
+        <option value="$PROJECT_DIR$/juben/game.spec" />
+        <option value="$PROJECT_DIR$/juben/NotImportant/text.py" />
+        <option value="$PROJECT_DIR$/juben/NotImportant/reduceNoice.py" />
+        <option value="$PROJECT_DIR$/juben/NotImportant/baiduAPI.py" />
+        <option value="$PROJECT_DIR$/juben/src/certainlyModel.py" />
+        <option value="$PROJECT_DIR$/juben/startGame.sh" />
+        <option value="$PROJECT_DIR$/juben/resources/Action/search/1" />
+        <option value="$PROJECT_DIR$/juben/resources/Action/search/3" />
+        <option value="$PROJECT_DIR$/juben/NotImportant/test.py" />
+        <option value="$PROJECT_DIR$/juben/NotImportant/test2.py" />
+        <option value="$PROJECT_DIR$/juben/demoTest.py" />
+        <option value="$PROJECT_DIR$/juben/src/actionModel.py" />
+        <option value="$PROJECT_DIR$/juben/resources/Action/search/42" />
+        <option value="$PROJECT_DIR$/juben/resources/Action/search/39" />
+        <option value="$PROJECT_DIR$/juben/resources/Action/search/38" />
+        <option value="$PROJECT_DIR$/juben/resources/Action/search/37" />
+        <option value="$PROJECT_DIR$/juben/resources/Action/search/36" />
+        <option value="$PROJECT_DIR$/juben/resources/Action/search/35" />
+        <option value="$PROJECT_DIR$/juben/resources/Action/search/34" />
+        <option value="$PROJECT_DIR$/juben/resources/Action/search/32" />
+        <option value="$PROJECT_DIR$/juben/resources/Action/search/31" />
+        <option value="$PROJECT_DIR$/juben/resources/Action/search/30" />
+        <option value="$PROJECT_DIR$/juben/resources/Action/search/29" />
+        <option value="$PROJECT_DIR$/juben/resources/Action/search/28" />
+        <option value="$PROJECT_DIR$/juben/resources/Action/search/8" />
+        <option value="$PROJECT_DIR$/juben/resources/Action/search/43" />
+        <option value="$PROJECT_DIR$/juben/resources/Action/search/7" />
+        <option value="$PROJECT_DIR$/juben/resources/Action/search/6" />
+        <option value="$PROJECT_DIR$/juben/resources/Action/search/5" />
+        <option value="$PROJECT_DIR$/juben/resources/Action/search/4" />
+        <option value="$PROJECT_DIR$/juben/resources/Action/search/2" />
+        <option value="$PROJECT_DIR$/juben/src/faceModel.py" />
+        <option value="$PROJECT_DIR$/juben/game.py" />
+        <option value="$PROJECT_DIR$/juben/src/sms.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="958" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JuBenAI3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JuBenAI3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JuBenAI3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JuBenAI3" type="462c0819:PsiDirectoryNode" />
+              <item name="juben" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JuBenAI3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JuBenAI3" type="462c0819:PsiDirectoryNode" />
+              <item name="juben" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JuBenAI3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JuBenAI3" type="462c0819:PsiDirectoryNode" />
+              <item name="juben" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Action" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JuBenAI3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JuBenAI3" type="462c0819:PsiDirectoryNode" />
+              <item name="juben" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JuBenAI3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JuBenAI3" type="462c0819:PsiDirectoryNode" />
+              <item name="juben" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JuBenAI3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JuBenAI3" type="462c0819:PsiDirectoryNode" />
+              <item name="juben" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Message" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JuBenAI3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JuBenAI3" type="462c0819:PsiDirectoryNode" />
+              <item name="juben" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/juben/resources/Action/search" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/juben/resources/Action/search" />
+      <recent name="$PROJECT_DIR$/juben/resources/Message" />
+      <recent name="$PROJECT_DIR$/juben/NotImportant" />
+      <recent name="$PROJECT_DIR$/juben/resources/image/img/hsn" />
+      <recent name="$PROJECT_DIR$/juben/lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/juben/resources/map" />
+      <recent name="$PROJECT_DIR$/juben" />
+      <recent name="$PROJECT_DIR$/juben/resources/Video" />
+      <recent name="$PROJECT_DIR$/juben/NotImportant" />
+      <recent name="$PROJECT_DIR$/juben/resources/Message" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.demoTest">
+    <configuration name="demoTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="JuBenAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/juben" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/juben/demoTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="JuBenAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/JuBenAI/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/juben" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/juben/game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sms" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="JuBenAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/juben/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/juben/src/sms.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="JuBenAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/juben/NotImportant" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/juben/NotImportant/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="JuBenAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/juben/NotImportant" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/juben/NotImportant/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.demoTest" />
+      <item itemvalue="Python.game" />
+      <item itemvalue="Python.sms" />
+      <item itemvalue="Python.test2" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.demoTest" />
+        <item itemvalue="Python.game" />
+        <item itemvalue="Python.sms" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53ca3ada-b77a-4c92-b161-05c0b562e7f3" name="Default Changelist" comment="" />
+      <created>1565798511557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565798511557</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="958" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.104395606" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946752" weight="0.32953367" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893504" weight="0.31639722" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39380023" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32911393" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50106496" side_tool="true" weight="0.44312027" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" weight="0.32967034" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2899878" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946752" weight="0.32953367" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893504" visible="true" weight="0.47525892" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39700806" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50106496" side_tool="true" weight="0.44312027" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" weight="0.32967034" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/juben/NotImportant/zhengze.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/juben/NotImportant/audioInput.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/juben/src/actionModel.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/juben/src/actionModel.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/juben/resources/Action/search/6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Action/search/5">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Action/search/4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Action/search/3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Action/search/1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Action/search/2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/8.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/9.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/10.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/11.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/12.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/13.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/14.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/15.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/16.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/17.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/18.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/19.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/20.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/21.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/22.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/23.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/24.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/25.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/26.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/27.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/28.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/29.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/30.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/33.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/34.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/35.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/38.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/39.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/40.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/37.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/36.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/31.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/32.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/resources/Message/7.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18330">
+          <caret line="1232" column="68" selection-start-line="1232" selection-start-column="51" selection-end-line="1232" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/src/faceModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/demoTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2715">
+          <caret line="181" selection-start-line="181" selection-end-line="181" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/src/actionModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juben/src/sms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pyinstaller = "*"
+pyqt5 = "*"
+opencv-python = "*"
+jieba = "*"
+pyaudio = "*"
+wave = "*"
+face_recognition = "*"
+numpy = "*"
+sklearn = "*"
+tensorflow = "*"
+scipy = "*"
+
+[requires]
+python_version = "3.7"
